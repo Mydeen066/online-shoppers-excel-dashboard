@@ -31,5 +31,5 @@ To analyze online shopper behavior and identify patterns related to purchasing i
 - Analyzed website usage across operating systems.
 
 ## Files
-- `Ecommerce_Dashboard.xlsx` – Interactive Excel dashboard
-- `Dashboard_Preview.png` – Dashboard preview
+- `online_shoppers_intention dashboard.xlsx` – Interactive Excel dashboard
+- `Dashboard.png` – Dashboard preview
