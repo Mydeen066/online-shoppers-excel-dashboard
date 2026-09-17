@@ -1,6 +1,6 @@
-# online-shoppers-excel-dashboard
+# Online Shoppers Purchasing Intention – Excel Dashboard
 ## Project Overview
-An interactive Excel dashboard created to analyze e-commerce customer behavior and purchasing patterns.
+To analyze online shopper behavior and identify patterns related to purchasing intention using Microsoft Excel.
 
 ## Tools Used
 - Microsoft Excel
@@ -8,6 +8,15 @@ An interactive Excel dashboard created to analyze e-commerce customer behavior a
 - PivotCharts
 - Slicers
 - Excel Formulas
+## Dashboard Features
+- Total Visitors
+- Purchase Rate
+- Average Time Spent
+- Average Bounce Rate
+- Page Visit Distribution
+- Operating System Distribution
+- Bounce Rate vs Purchase Behavior
+- Interactive filters for Month, Visitor Type, and Weekend
 
 ## Key Analysis
 - Purchase proportion
@@ -15,10 +24,8 @@ An interactive Excel dashboard created to analyze e-commerce customer behavior a
 - Average time spent on website
 - Bounce rate vs revenue
 - Operating system distribution
-- Visitor behavior analysis
 
 ## Key Insights
-- Analyzed visitor purchasing behavior.
 - Compared bounce rates between visitors who purchased and those who did not.
 - Studied page-visit patterns.
 - Analyzed website usage across operating systems.
